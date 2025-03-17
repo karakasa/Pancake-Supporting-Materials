@@ -1,4 +1,4 @@
-Pancake (the "Software") is available free of charge for both non-commercial and commercial use, subject to the following conditions:
+Pancake (the "Software") is available **free of charge for both non-commercial and commercial use**, subject to the following conditions:
 
 * Users must not engage in any unlawful activities.
 * The Software may be freely distributed in its standalone form. However, it may not be incorporated into any other product for any purpose without prior written consent.
